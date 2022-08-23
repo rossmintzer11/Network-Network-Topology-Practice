@@ -1,5 +1,5 @@
 # Network+ Topology Practice
-Created this repository to show examples of network topologies I've created during studies for the Network+ exam. 
+Created this repository to show examples of network topologies I've created during my studies for the Network+ exam. 
 
 ## Physical Network 
 
