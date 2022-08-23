@@ -5,3 +5,5 @@ Created this repository to show examples of network topologies I've during studi
 
 ` red cable = fiber optic &
 black cable = copper `
+
+![Physical Network Topology]()
